@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/c84b2feb-b2e8-4e8e-9749-12509d42eaa5" width="1000" height="500"/>
+
+
 # Analyzing the Impact of COVID-19 on the Global Economy
 
 ## Project Overview
